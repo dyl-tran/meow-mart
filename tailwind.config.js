@@ -13,10 +13,13 @@ module.exports = {
       gridTemplateColumns: {
         '70/30': '70% 28%',
       },
-      transitionProperty: {
-        'height': 'height',
-        'spacing': 'margin, padding',
-      }
+      colors: {
+        'miso-orange': '#E76F51', 
+        'miso-cream': '#FAF4ED',  
+        'miso-gray': '#2A2A2A',   
+        'miso-pink': '#F4ACB7',   
+        'miso-blue': '#A0E8E9',   
+    }
     },
   },
   plugins: [],

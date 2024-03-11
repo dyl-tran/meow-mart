@@ -1,0 +1,222 @@
+[
+  {
+    "_id": "1",
+    "seller_id": "1",
+    "title": "Comfy Cat Bed",
+    "category": "Beds",
+    "description": "A plush and comfortable cat bed suitable for cats of all sizes.",
+    "location": {
+      "city": "Portland",
+      "state": "OR"
+    },
+    "price": 25.99,
+    "tags": ["soft", "machine washable", "non-slip bottom"],
+    "seller_info": {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "617-555-0101"
+    },
+    "images": ["cat_bed_1.jpg", "cat_bed_2.jpg", "cat_bed_3.jpg"],
+    "isFeatured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "2",
+    "seller_id": "2",
+    "title": "Interactive Cat Toy",
+    "category": "Toys",
+    "description": "Keep your cat entertained with this interactive toy that stimulates their instincts.",
+    "location": {
+      "city": "Hillsboro",
+      "state": "OR"
+    },
+    "price": 15.99,
+    "tags": ["interactive", "durable", "catnip included"],
+    "seller_info": {
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": "212-555-0202"
+    },
+    "images": ["cat_toy_1.jpg", "cat_toy_2.jpg", "cat_toy_3.jpg"],
+    "isFeatured": true,
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-02T00:00:00.000Z"
+  },
+  {
+    "_id": "3",
+    "seller_id": "3",
+    "title": "Organic Cat Kibble and Can Mix",
+    "category": "Food",
+    "description": "Healthy and organic cat kibble mix that your cat will love. Chicken flavored.",
+    "location": {
+      "city": "Lake Oswego",
+      "state": "OR"
+    },
+    "price": 9.99,
+    "tags": ["organic", "grain-free", "chicken"],
+    "seller_info": {
+      "name": "David Johnson",
+      "email": "david@example.com",
+      "phone": "213-555-0303"
+    },
+    "images": ["cat_treats_1.jpg", "cat_treats_2.jpg", "cat_treats_3.jpg"],
+    "isFeatured": false,
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-03T00:00:00.000Z"
+  },
+  {
+    "_id": "4",
+    "seller_id": "4",
+    "title": "Deluxe Scratching Post",
+    "category": "Scratch Posts",
+    "description": "Durable scratching post that satisfies your cat's clawing instincts and protects your furniture.",
+    "location": {
+      "city": "San Diego",
+      "state": "CA"
+    },
+    "price": 35.99,
+    "tags": ["sturdy", "tall", "natural sisal"],
+    "seller_info": {
+      "name": "Emily Davis",
+      "email": "emily@example.com",
+      "phone": "512-555-0404"
+    },
+    "images": ["scratching_post_1.jpg", "scratching_post_2.jpg", "scratching_post_3.jpg"],
+    "isFeatured": false,
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-04T00:00:00.000Z"
+  },
+  {
+    "_id": "5",
+    "seller_id": "5",
+    "title": "Cat Litter with Odor Control",
+    "category": "Litter",
+    "description": "Advanced odor control cat litter that keeps your home smelling fresh.",
+    "location": {
+      "city": "Garden Grove",
+      "state": "CA"
+    },
+    "price": 14.99,
+    "tags": ["odor control", "clumping", "99% dust-free"],
+    "seller_info": {
+      "name": "Michael Brown",
+      "email": "michael@example.com",
+      "phone": "312-555-0505"
+    },
+    "images": ["cat_litter_1.jpg", "cat_litter_2.jpg", "cat_litter_3.jpg"],
+    "isFeatured": true,
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-05T00:00:00.000Z"
+  },
+  {
+    "_id": "6",
+    "seller_id": "6",
+    "title": "Cat Collar with Bell",
+    "category": "Other",
+    "description": "Adjustable cat collar with a bell to keep track of your cat's whereabouts.",
+    "location": {
+      "city": "Irvine",
+      "state": "CA"
+    },
+    "price": 4.99,
+    "tags": ["adjustable", "colorful", "with bell"],
+    "seller_info": {
+      "name": "Sarah Wilson",
+      "email": "sarah@example.com",
+      "phone": "305-555-0606"
+    },
+    "images": ["cat_collar_1.jpg", "cat_collar_2.jpg", "cat_collar_3.jpg"],
+    "isFeatured": false,
+    "createdAt": "2024-01-06T00:00:00.000Z",
+    "updatedAt": "2024-01-06T00:00:00.000Z"
+  },
+  {
+    "_id": "7",
+    "seller_id": "7",
+    "title": "Automatic Cat Feeder",
+    "category": "Food",
+    "description": "Ensure your cat is always fed on time with this automatic feeder.",
+    "location": {
+      "city": "Pomona",
+      "state": "CA"
+    },
+    "price": 49.99,
+    "tags": ["automatic", "timer", "easy to clean"],
+    "seller_info": {
+      "name": "Robert Anderson",
+      "email": "robert@example.com",
+      "phone": "303-555-0707"
+    },
+    "images": ["cat_feeder_1.jpg", "cat_feeder_2.jpg", "cat_feeder_3.jpg"],
+    "isFeatured": false,
+    "createdAt": "2024-01-07T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z"
+  },
+  {
+    "_id": "8",
+    "seller_id": "8",
+    "title": "Luxury Cat Tree",
+    "category": "Scratch Posts",
+    "description": "A luxury cat tree that offers a comfortable place for your cat to relax and play.",
+    "location": {
+      "city": "Bethany",
+      "state": "OR"
+    },
+    "price": 99.99,
+    "tags": ["multi-level", "sturdy", "plush"],
+    "seller_info": {
+      "name": "Jennifer Martin",
+      "email": "jennifer@example.com",
+      "phone": "970-555-0808"
+    },
+    "images": ["cat_tree_1.jpg", "cat_tree_2.jpg", "cat_tree_3.jpg"],
+    "isFeatured": false,
+    "createdAt": "2024-01-08T00:00:00.000Z",
+    "updatedAt": "2024-01-08T00:00:00.000Z"
+  },
+  {
+    "_id": "9",
+    "seller_id": "9",
+    "title": "Catnip Spray",
+    "category": "Treats",
+    "description": "All-natural catnip spray that stimulates your cat's senses and provides enjoyment.",
+    "location": {
+      "city": "Tigard",
+      "state": "OR"
+    },
+    "price": 7.99,
+    "tags": ["natural", "stimulant", "spray bottle"],
+    "seller_info": {
+      "name": "Lisa Taylor",
+      "email": "lisa@example.com",
+      "phone": "303-555-0909"
+    },
+    "images": ["catnip_spray_1.jpg", "catnip_spray_2.jpg", "catnip_spray_3.jpg"],
+    "isFeatured": false,
+    "createdAt": "2024-01-09T00:00:00.000Z",
+    "updatedAt": "2024-01-09T00:00:00.000Z"
+  },
+  {
+    "_id": "10",
+    "seller_id": "10",
+    "title": "Heated Cat Mat",
+    "category": "Beds",
+    "description": "Keep your kitty warm with this safe and cozy heated cat mat.",
+    "location": {
+      "city": "Beaverton",
+      "state": "OR"
+    },
+    "price": 29.99,
+    "tags": ["heated", "comfortable", "energy efficient"],
+    "seller_info": {
+      "name": "Matthew Harris",
+      "email": "matthew@example.com",
+      "phone": "215-555-1010"
+    },
+    "images": ["heated_mat_1.jpg", "heated_mat_2.jpg", "heated_mat_3.jpg"],
+    "isFeatured": false,
+    "createdAt": "2024-01-10T00:00:00.000Z",
+    "updatedAt": "2024-01-10T00:00:00.000Z"
+  }
+]

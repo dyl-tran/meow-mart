@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+.dropdown-menu {
+    z-index: 1000;
+    
+}
