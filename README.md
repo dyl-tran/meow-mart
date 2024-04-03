@@ -28,5 +28,5 @@ Miso Mart is a marketplace website where users could upload cat related items fo
 * The live version of the app can be viewed [here](https://miso-mart.vercel.app/).
 
 ## Attribution
-* <a href="www.freepik.com">Some assets created by Freepik</a>
+* [Some assets created by Freepik](https://www.freepik.com/)
 * <a href="https://www.flaticon.com/free-icons/wink" title="wink icons">Wink icons created by Rohim - Flaticon</a>
