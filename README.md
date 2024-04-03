@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🐈 Miso Mart
 
-## Getting Started
+Miso Mart is a marketplace website where users could upload cat related items for sale and to purchase from other users.
+> * Maintained by: `Dylan Tran`
 
-First, run the development server:
+## Screenshot
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Miso Mart Landing Page](https://github.com/dyl-tran/miso-mart/assets/103216050/3aad7afe-8edf-4fe5-8cda-47ed4410d5c2)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Technology Overview
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* Next.js and React is the web framework to create re-usable components, and provides rendering on the server side, allowing for faster load times when switching between pages.
+* TailwindCSS for styling
 
-## Learn More
+### Devices
+* The app can be properly viewed on the desktop, iPad in landscape mode, and on mobile phones.
 
-To learn more about Next.js, take a look at the following resources:
+## Lessons Learned
+* Getting used to the syntax for writing React code in JSX format.
+* Writing components that can be re-used, and can have a parent/child relationship, as components can be expanded onto other components.
+* Adapting the UI to fit various screensizes using TailwindCSS's utility classes. Important to keep a mobile-first design
+* Learning about how React Hooks work with state management. Functions such as 'useState' and 'useEffect' allows for users to interact the website and update it without having to refresh the page.
+* Next.js simplifies the routing and we don't have to rely on a seperate package such as React Router. Pages are folder based, meaning if I wanted to make a new page, I create a new folder with the name of that page and add a page.jsx file in it.
+* More practice with using version control and Git such as commiting and pushing code.
 
--   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
--   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Live Site
+* The live version of the app can be viewed [here](https://miso-mart.vercel.app/).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Attribution
+* <a href="www.freepik.com" title="Freepik">Some assets created by Freepik</a>
+* <a href="https://www.flaticon.com/free-icons/wink" title="wink icons">Wink icons created by Rohim - Flaticon</a>
